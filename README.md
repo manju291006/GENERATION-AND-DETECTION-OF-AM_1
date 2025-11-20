@@ -60,6 +60,7 @@ Compare Signals:Compare the original modulating signal with the demodulated sign
 
 
 ## PROGRAM:
+```
 Am = 7;
 Ac = 14;
 fm = 653;
@@ -94,6 +95,7 @@ plot(t, demod, 'g');
 title('Demodulated Signal');
 xlabel('Time (s)');
 ylabel('Amplitude');
+```
 
 ## TABULATION:
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ebeeb37a-f2ac-4f20-8119-e90462d5c496" />
