@@ -116,12 +116,15 @@ title('Demodulated Signal');
 xlabel('Time (s)');
 ylabel('Amplitude');
 TABULATION:
-16816069-68d9-48a3-a6a5-1c12f1fb9582
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d7bd9c9-24ff-4055-a3c0-9580bf28e391" />
+
 
 CALCULATION:
-8326a889-1be4-4320-90d3-09e6c487a5bb
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/6f877e8e-b76a-48d6-8cd1-a4487944ddd0" />
+
 
 OUTPUT:
-image
+<img width="687" height="573" alt="image" src="https://github.com/user-attachments/assets/bc016be8-c3f1-4e72-828e-2100515b1a08" />
+
 RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
